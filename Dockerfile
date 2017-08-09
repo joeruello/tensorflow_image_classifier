@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:0.9.0-devel
+FROM tensorflow/tensorflow:latest-gpu
 
 MAINTAINER Jerome WAX "xblaster@lo2k.net"
 
