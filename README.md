@@ -4,7 +4,7 @@ This is the code for 'Image Classifier in TensorFlow in 5 Min on [YouTube](https
 
 ## Requirements
 
-* [docker](https://www.docker.com/products/docker-toolbox)
+* [nvidia-docker ](https://www.nvidia-docker .com/products/nvidia-docker -toolbox)
 
 ## Usage 
 

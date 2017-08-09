@@ -1,1 +1,1 @@
-docker build -t xblaster/tensor-guess .
+nvidia-docker  build -t xblaster/tensor-guess .
