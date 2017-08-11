@@ -1,0 +1,12 @@
+--2017-08-10 00:14:49--  http://ciclovivo.com.br/wp-content/uploads/2015/009/img/noticias/toilet%20cimento.jpg
+Resolving ciclovivo.com.br (ciclovivo.com.br)... 104.27.169.68, 104.27.168.68, 2400:cb00:2048:1::681b:a844, ...
+Connecting to ciclovivo.com.br (ciclovivo.com.br)|104.27.169.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘toilet cimento.jpg’
+
+     0K .......... .......... .......... .......... ..........  236K
+    50K .......... ..........                                  14.3M=0.2s
+
+2017-08-10 00:14:50 (331 KB/s) - ‘toilet cimento.jpg’ saved [72540]
+
